@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "windows",
+      "description": "bathroom windows",
+      "price": 1000,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "pc",
+      "description": "pc windows",
+      "price": 2000,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "modular",
+      "description": "modular bedroom",
+      "price": 1500,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "fridge",
+      "description": "small fridge ",
+      "price": 3000,
+      "inStock": true
+    }
+  ]
+}
