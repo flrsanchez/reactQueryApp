@@ -1,6 +1,14 @@
+import React from "react";
+import Products from "./components/Products";
+import ProductForm from "./components/ProductForm";
+import form from '../src/form.css'
+
 function App() {
     return (
-        <div>Hola Mundo</div>
+        <>
+            <ProductForm />
+            <Products />
+        </>
     );
 }
 
